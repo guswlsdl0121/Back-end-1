@@ -4,7 +4,6 @@ spring:
     #/<IP>:<PORT>/<DB NAME>?useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul
     url: jdbc:mysql://localhost:3306/SimplePostService?serverTimezone=Asia/Seoul
     username: root
-    password: aqw3672a*$
 
 
   jpa:
